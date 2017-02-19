@@ -1,0 +1,3 @@
+hi file
+sample text
+and more text
